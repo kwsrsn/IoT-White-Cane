@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1010495571999",
+    "firebase_url": "https://ai-storage-556f3-default-rtdb.firebaseio.com",
+    "project_id": "ai-storage-556f3",
+    "storage_bucket": "ai-storage-556f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010495571999:android:d2ec348302d1597886ad2a",
+        "android_client_info": {
+          "package_name": "com.example.iotwhitecane"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGIZCUEr0PsQPLNreohfKRO7MkqecZlV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010495571999:android:6ea55b5cca18cfe686ad2a",
+        "android_client_info": {
+          "package_name": "com.example.whitecane"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGIZCUEr0PsQPLNreohfKRO7MkqecZlV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
